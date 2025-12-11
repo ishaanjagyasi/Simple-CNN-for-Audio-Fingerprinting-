@@ -1,0 +1,83 @@
+{
+  "5s_noise_5db": {
+    "accuracy": 97.97979797979798,
+    "correct": 97,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 87.62791180851484,
+    "min_query_time_ms": 38.20061683654785,
+    "max_query_time_ms": 460.26158332824707
+  },
+  "5s_noise_0db": {
+    "accuracy": 92.92929292929293,
+    "correct": 92,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 79.83966788860282,
+    "min_query_time_ms": 37.592411041259766,
+    "max_query_time_ms": 221.38619422912598
+  },
+  "5s_compression_heavy": {
+    "accuracy": 100.0,
+    "correct": 99,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 83.61302240930422,
+    "min_query_time_ms": 35.42518615722656,
+    "max_query_time_ms": 341.48168563842773
+  },
+  "10s_noise_5db": {
+    "accuracy": 100.0,
+    "correct": 99,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 189.69254782705596,
+    "min_query_time_ms": 80.76143264770508,
+    "max_query_time_ms": 562.0524883270264
+  },
+  "10s_noise_0db": {
+    "accuracy": 95.95959595959596,
+    "correct": 95,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 177.5026465907241,
+    "min_query_time_ms": 85.02459526062012,
+    "max_query_time_ms": 597.3377227783203
+  },
+  "10s_compression_heavy": {
+    "accuracy": 100.0,
+    "correct": 99,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 180.57006055658513,
+    "min_query_time_ms": 76.26461982727051,
+    "max_query_time_ms": 602.6294231414795
+  },
+  "15s_noise_5db": {
+    "accuracy": 100.0,
+    "correct": 99,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 281.1856775572806,
+    "min_query_time_ms": 125.20194053649902,
+    "max_query_time_ms": 857.567548751831
+  },
+  "15s_noise_0db": {
+    "accuracy": 96.96969696969697,
+    "correct": 96,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 266.18705373821837,
+    "min_query_time_ms": 130.2938461303711,
+    "max_query_time_ms": 813.5757446289062
+  },
+  "15s_compression_heavy": {
+    "accuracy": 100.0,
+    "correct": 99,
+    "total": 99,
+    "errors": 0,
+    "avg_query_time_ms": 263.0078599910544,
+    "min_query_time_ms": 119.29845809936523,
+    "max_query_time_ms": 759.3605518341064
+  }
+}

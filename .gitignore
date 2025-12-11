@@ -1,0 +1,13 @@
+# Ignore the large FMA dataset folder and any hidden files within it
+fma_small/
+fma_small/**/.*
+
+# macOS and common editor noise
+.DS_Store
+*/.DS_Store
+
+# macOS resource forks
+._*
+
+# Ignore generated preprocessed features
+preprocessed/
